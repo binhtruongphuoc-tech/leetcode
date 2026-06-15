@@ -17,6 +17,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@
 | [0013-roman-to-integer](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +44,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
