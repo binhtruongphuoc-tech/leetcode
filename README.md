@@ -79,6 +79,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
