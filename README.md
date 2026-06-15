@@ -24,6 +24,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
