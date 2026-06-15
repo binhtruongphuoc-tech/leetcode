@@ -91,6 +91,7 @@
 | [0044-wildcard-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@
 | [0066-plus-one](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,4 +221,8 @@
 | [0054-spiral-matrix](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
