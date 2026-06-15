@@ -39,6 +39,7 @@
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0120-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0120-triangle/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@
 | [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0118-pascals-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0120-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0120-triangle/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
