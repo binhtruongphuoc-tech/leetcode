@@ -78,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,8 +104,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
