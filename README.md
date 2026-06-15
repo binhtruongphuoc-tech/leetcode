@@ -28,6 +28,7 @@
 | [0047-permutations-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Backtracking
@@ -39,6 +40,7 @@
 | [0040-combination-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
