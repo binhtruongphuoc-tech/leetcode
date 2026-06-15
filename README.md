@@ -64,6 +64,7 @@
 | [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
+| [0191-number-of-1-bits](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
