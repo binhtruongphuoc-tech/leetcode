@@ -53,6 +53,7 @@
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@
 | [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
