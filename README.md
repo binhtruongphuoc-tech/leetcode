@@ -53,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@
 | [0049-group-anagrams](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0065-valid-number/) | Hard |
+| [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@
 | [0050-powx-n](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,4 +216,5 @@
 | [0043-multiply-strings](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
