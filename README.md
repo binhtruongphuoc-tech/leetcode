@@ -66,6 +66,7 @@
 | [0089-gray-code](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +189,7 @@
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@
 | [0044-wildcard-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0060-permutation-sequence/) | Hard |
+| [0231-power-of-two](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
