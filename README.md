@@ -40,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@
 | [0005-longest-palindromic-substring](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
