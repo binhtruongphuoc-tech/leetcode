@@ -59,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0007-reverse-integer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
