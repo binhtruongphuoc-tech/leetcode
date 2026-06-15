@@ -55,6 +55,7 @@
 | [0032-longest-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,11 +68,13 @@
 | [0022-generate-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -128,6 +131,7 @@
 | [0010-regular-expression-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
