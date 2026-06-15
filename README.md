@@ -22,6 +22,7 @@
 | [0039-combination-sum](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -64,6 +65,7 @@
 | [0010-regular-expression-matching](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -81,6 +83,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -145,6 +148,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +162,8 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
