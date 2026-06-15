@@ -128,6 +128,7 @@
 | [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@
 | [0049-group-anagrams](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +208,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +223,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
