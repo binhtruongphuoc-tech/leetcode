@@ -31,6 +31,7 @@
 | [0051-n-queens](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Backtracking
@@ -110,6 +111,7 @@
 | [0018-4sum](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
