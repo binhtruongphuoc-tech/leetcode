@@ -15,6 +15,7 @@
 | [0027-remove-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -119,6 +120,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
