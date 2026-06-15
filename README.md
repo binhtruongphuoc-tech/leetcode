@@ -88,6 +88,7 @@
 | [0072-edit-distance](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@
 | [0069-sqrtx](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0089-gray-code/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
