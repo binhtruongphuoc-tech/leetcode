@@ -17,6 +17,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -88,6 +89,7 @@
 | [0012-integer-to-roman](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0036-valid-sudoku](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +143,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
