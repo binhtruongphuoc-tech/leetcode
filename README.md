@@ -156,6 +156,7 @@
 | [0060-permutation-sequence](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
