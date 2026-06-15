@@ -25,6 +25,7 @@
 | [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Backtracking
@@ -35,6 +36,7 @@
 | [0039-combination-sum](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -97,6 +99,7 @@
 | [0015-3sum](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
