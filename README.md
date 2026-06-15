@@ -41,6 +41,7 @@
 | [0046-permutations](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
