@@ -21,6 +21,7 @@
 | [0037-sudoku-solver](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -98,6 +99,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0036-valid-sudoku](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [0041-first-missing-positive](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
