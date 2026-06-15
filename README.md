@@ -26,6 +26,7 @@
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Backtracking
@@ -129,6 +130,7 @@
 | [0013-roman-to-integer](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0048-rotate-image/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0048-rotate-image/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
