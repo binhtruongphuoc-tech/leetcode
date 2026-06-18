@@ -98,6 +98,7 @@
 | [0065-valid-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -171,6 +172,7 @@
 | [0037-sudoku-solver](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
