@@ -38,6 +38,7 @@
 | [0063-unique-paths-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -57,6 +58,7 @@
 | [0051-n-queens](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -66,6 +68,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
