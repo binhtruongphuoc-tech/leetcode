@@ -120,6 +120,7 @@
 | [0045-jump-game-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0072-edit-distance/) | Medium |
@@ -199,6 +200,7 @@
 | [0048-rotate-image](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0069-sqrtx/) | Easy |
@@ -296,4 +298,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0258-add-digits/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
