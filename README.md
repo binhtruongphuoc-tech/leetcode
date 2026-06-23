@@ -44,6 +44,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0120-triangle/) | Medium |
@@ -125,6 +126,7 @@
 | [0063-unique-paths-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0085-maximal-rectangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
@@ -257,6 +259,7 @@
 | [0032-longest-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,11 +280,13 @@
 | [0063-unique-paths-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
