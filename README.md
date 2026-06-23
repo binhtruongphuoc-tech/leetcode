@@ -104,6 +104,7 @@
 | [0072-edit-distance](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
+| [0087-scramble-string](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0087-scramble-string/) | Hard |
 | [0093-restore-ip-addresses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Trie
@@ -127,6 +128,7 @@
 | [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0087-scramble-string](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0087-scramble-string/) | Hard |
 | [0118-pascals-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
