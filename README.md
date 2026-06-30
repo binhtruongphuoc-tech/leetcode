@@ -46,6 +46,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0120-triangle/) | Medium |
 | [0134-gas-station](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0134-gas-station/) | Medium |
@@ -190,6 +191,7 @@
 | [0041-first-missing-positive](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -261,6 +263,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0191-number-of-1-bits](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Stack
@@ -328,6 +331,7 @@
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,4 +342,5 @@
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
