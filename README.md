@@ -70,6 +70,7 @@
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +321,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +338,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +353,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
