@@ -206,6 +206,7 @@
 | [0086-partition-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -277,6 +278,7 @@
 | [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +324,7 @@
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +342,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +358,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
