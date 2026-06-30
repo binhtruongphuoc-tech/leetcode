@@ -209,6 +209,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -327,6 +328,7 @@
 | [0098-validate-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +347,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,8 +364,10 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 <!---LeetCode Topics End-->
