@@ -37,6 +37,7 @@
 | [0059-spiral-matrix-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0078-subsets/) | Medium |
@@ -106,6 +107,7 @@
 | [0058-length-of-last-word](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
@@ -326,6 +328,7 @@
 | [0054-spiral-matrix](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0258-add-digits](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0258-add-digits/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
