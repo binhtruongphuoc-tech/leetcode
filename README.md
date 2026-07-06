@@ -96,6 +96,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0038-count-and-say/) | Medium |
@@ -163,6 +164,7 @@
 | [0018-4sum](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0061-rotate-list/) | Medium |
@@ -378,4 +380,8 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
