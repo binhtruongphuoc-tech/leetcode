@@ -341,6 +341,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -358,6 +359,7 @@
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -370,12 +372,14 @@
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
