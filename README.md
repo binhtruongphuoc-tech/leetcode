@@ -73,6 +73,7 @@
 | [0093-restore-ip-addresses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@
 | [0093-restore-ip-addresses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -147,6 +149,7 @@
 | [0118-pascals-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
