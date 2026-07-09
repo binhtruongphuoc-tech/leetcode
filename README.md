@@ -119,6 +119,7 @@
 | [0093-restore-ip-addresses](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -184,6 +185,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0086-partition-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Sorting
