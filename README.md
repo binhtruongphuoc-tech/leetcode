@@ -122,6 +122,7 @@
 | [0115-distinct-subsequences](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -217,6 +218,7 @@
 | [0076-minimum-window-substring](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -410,6 +412,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0127-word-ladder/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
