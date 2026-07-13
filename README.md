@@ -59,6 +59,7 @@
 | [0136-single-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@
 | [0113-path-sum-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0140-word-break-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,12 +136,14 @@
 | [0131-palindrome-partitioning](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +174,7 @@
 | [0131-palindrome-partitioning](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -234,6 +239,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -368,6 +374,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
