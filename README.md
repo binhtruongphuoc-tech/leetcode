@@ -56,6 +56,7 @@
 | [0130-surrounded-regions](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0135-candy/) | Hard |
+| [0136-single-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@
 | [0078-subsets](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0231-power-of-two/) | Easy |
 ## String
