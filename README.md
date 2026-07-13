@@ -55,6 +55,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0135-candy/) | Hard |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -171,6 +172,7 @@
 | [0055-jump-game](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0135-candy/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
