@@ -58,6 +58,7 @@
 | [0135-candy](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -132,11 +133,13 @@
 | [0127-word-ladder](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +169,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -229,6 +233,7 @@
 | [0127-word-ladder](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -362,6 +367,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
