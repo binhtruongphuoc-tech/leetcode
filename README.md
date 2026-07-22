@@ -207,6 +207,7 @@
 | [0086-partition-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Sorting
@@ -242,6 +243,7 @@
 | [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -261,6 +263,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
