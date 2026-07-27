@@ -60,6 +60,7 @@
 | [0137-single-number-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -292,6 +293,7 @@
 | [0069-sqrtx](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0089-gray-code/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
@@ -349,6 +351,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
