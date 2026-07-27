@@ -65,6 +65,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -231,6 +232,7 @@
 | [0075-sort-colors](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
+| [0164-maximum-gap](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0164-maximum-gap/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -505,4 +507,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0146-lru-cache/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
