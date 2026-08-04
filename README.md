@@ -145,6 +145,7 @@
 | [0140-word-break-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -259,6 +260,7 @@
 | [0141-linked-list-cycle](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -303,6 +305,7 @@
 | [0070-climbing-stairs](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
