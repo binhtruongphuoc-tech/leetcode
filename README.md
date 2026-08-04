@@ -67,6 +67,7 @@
 | [0162-find-peak-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -239,6 +240,7 @@
 | [0147-insertion-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0169-majority-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +266,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0169-majority-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -358,6 +361,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -525,4 +529,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0164-maximum-gap/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
