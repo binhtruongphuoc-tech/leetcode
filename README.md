@@ -556,4 +556,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0192-word-frequency](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0192-word-frequency/) | Medium |
 <!---LeetCode Topics End-->
