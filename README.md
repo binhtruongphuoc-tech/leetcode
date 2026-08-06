@@ -70,6 +70,7 @@
 | [0169-majority-element](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0174-dungeon-game](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0179-largest-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0179-largest-number/) | Medium |
+| [0189-rotate-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -231,6 +232,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -321,6 +323,7 @@
 | [0168-excel-sheet-column-title](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/binhtruongphuoc-tech/leetcode/tree/main/0258-add-digits/) | Easy |
